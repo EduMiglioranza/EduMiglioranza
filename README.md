@@ -1,7 +1,7 @@
 ## Hi there ! 👋 I'm Eduardo Plaza Miglioranza
 
 - 🚀 Student of Rocketseat !
-- 🛰️ I’m currently doing Full-Stack course.
+- 🛰️ I’m currently doing a Full-Stack course.
 - 🔭 Studying HTML / CSS / JS / Node.js / React.
 - 🖥️ known languages :
 <div>
