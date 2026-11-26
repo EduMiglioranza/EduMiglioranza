@@ -19,6 +19,7 @@ I'm currently pursuing a **BUT Informatique** (Bachelor's Degree in Computer Sci
   <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
+<br>
 
 🌱 I'm always looking to learn new technologies, improve my programming skills and work on new projects.
 
